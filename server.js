@@ -21,8 +21,8 @@ mongoose.connect(
     }
   ); 
 
-require("./controllers/api-routes")(app);
-require("./controllers/html-routes")(app);
+require("./Controllers/api-routes")(app);
+require("./Controllers/html-routes")(app);
 
 app.listen(PORT, function() {
     console.log("Listening on PORT:" + PORT)
