@@ -12,7 +12,7 @@ This app calculates your workouts and keeps track of your repetitions and calori
 
 ## Dashboard
 
-* The dashboard is separate from the "Fitness Tracker" in the navigational bar. It will display several graphs. One graph will show your weekly progress relating to duration and intensity. Another graph will separate the workouts and the lbs along with reps and sets.
+* The dashboard is separate from the "Fitness Tracker" in the navigational bar. It will display several graphs ranging from, reps, sets, the weight (in lbs) used in the workouts, duration and much more.
 
 ## Business Context
 
