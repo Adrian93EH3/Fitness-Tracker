@@ -8,7 +8,7 @@ This app calculates your workouts and keeps track of your repetitions and calori
 
 ## Date
 
-*The date on the app should reset upon actually starting the fitness tracking process and hitting "complete".
+*The date on the app should reset upon actually starting the fitness tracking process and hitting "complete".*
 
 ## Dashboard
 
